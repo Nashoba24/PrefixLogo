@@ -1,0 +1,8 @@
+name: PrefixLogo
+version:  1.0
+main: fr.nashoba24.prefixlogo.PrefixLogo
+author: Nashoba24
+commands:
+  logo:
+    description: Logo
+    usage: /logo [<id>]

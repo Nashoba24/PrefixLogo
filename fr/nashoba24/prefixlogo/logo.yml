@@ -1,0 +1,400 @@
+woman:
+  logo: "&d♀"
+  premium: false
+man:
+  logo: "&9♂"
+  premium: false
+ying-yang:
+  logo: "&0☯"
+  premium: true
+toxic:
+  logo: "&2☢"
+  premium: true
+frozen:
+  logo: "&b❄"
+  premium: true
+peace:
+  logo: "&e☮"
+  premium: true
+herma:
+  logo: "&c⚧"
+  premium: true
+lesbian:
+  logo: "&d⚢"
+  premium: true
+gay:
+  logo: "&9⚣"
+  premium: true
+transsexual:
+  logo: "&5⚦"
+  premium: true
+neuter:
+  logo: "&7⚲"
+  premium: true
+asexuality:
+  logo: "&7⚪"
+  premium: true
+hetero:
+  logo: "&1⚤"
+  premium: true
+bisexual:
+  logo: "&2⚥"
+  premium: true
+marriage:
+  logo: "&6⚭"
+  premium: true
+black-king:
+  logo: "&0♚"
+  premium: true
+black-queen:
+  logo: "&0♛"
+  premium: true
+black-rock:
+  logo: "&0♜"
+  premium: true
+black-bishop:
+  logo: "&0♝"
+  premium: true
+black-pawn:
+  logo: "&0♟"
+  premium: true
+black-knight:
+  logo: "&0♞"
+  premium: true
+white-king:
+  logo: "&f♔"
+  premium: true
+white-queen:
+  logo: "&f♕"
+  premium: true
+white-rock:
+  logo: "&f♖"
+  premium: true
+white-bishop:
+  logo: "&f♗"
+  id: ""
+  premium: true
+white-pawn:
+  logo: "&f♙"
+  premium: true
+white-knight:
+  logo: "&f♘"
+  premium: true
+dice-1:
+  logo: "&f⚀"
+  premium: true
+dice-2:
+  logo: "&f⚁"
+  premium: true
+dice-3:
+  logo: "&f⚂"
+  premium: true
+dice-4:
+  logo: "&f⚃"
+  premium: true
+dice-5:
+  logo: "&f⚄"
+  premium: true
+dice-6:
+  logo: "&f⚅"
+  premium: true
+spade:
+  logo: "&0♠"
+  premium: true
+club:
+  logo: "&2♣"
+  premium: true
+heart:
+  logo: "&4♥"
+  premium: true
+diamond:
+  logo: "&b♦"
+  premium: true
+draughts-man:
+  logo: "&0⛀"
+  premium: true
+draughts-king:
+  logo: "&0⛁"
+  premium: true
+sun:
+  logo: "&e☀"
+  premium: true
+moon:
+  logo: "&e☾"
+  premium: true
+mercury:
+  logo: "&e☿"
+  premium: true
+earth:
+  logo: "&a♁"
+  premium: true
+jupiter:
+  logo: "&6♃"
+  premium: true
+saturn:
+  logo: "&6♄"
+  premium: true
+uranus:
+  logo: "&1♅"
+  premium: true
+neptune:
+  logo: "&9♆"
+  premium: true
+pluto:
+  logo: "&6♇"
+  premium: true
+ceres:
+  logo: "&7⚳"
+  premium: true
+pallas:
+  logo: "&8⚴"
+  premium: true
+juno:
+  logo: "&6⚵"
+  premium: true
+vesta:
+  logo: "&7⚶"
+  premium: true
+chiron:
+  logo: "&7⚷"
+  premium: true
+comet:
+  logo: "&b☄"
+  premium: true
+aries:
+  logo: "&0♈"
+  premium: true
+taurus:
+  logo: "&0♉"
+  premium: true
+gemini:
+  logo: "&0♊"
+  premium: true
+cancer:
+  logo: "&0♋"
+  premium: true
+leo:
+  logo: "&0♌"
+  premium: true
+virgo:
+  logo: "&0♍"
+  premium: true
+scorpius:
+  logo: "&0♏"
+  premium: true
+sagittarius:
+  logo: "&0♐"
+  premium: true
+capricorn:
+  logo: "&0♑"
+  premium: true
+aquarius:
+  logo: "&0♒"
+  premium: true
+pisces:
+  logo: "&0♓"
+  premium: true
+wheelchair:
+  logo: "&1♿"
+  premium: true
+warning:
+  logo: "&4⚠"
+  premium: true
+airplane:
+  logo: "&f✈"
+  premium: true
+telephone:
+  logo: "&2☎"
+  premium: true
+coffee:
+  logo: "&0☕"
+  premium: true
+palm:
+  logo: "&2⸙"
+  premium: true
+flower:
+  logo: "&2⚘"
+  premium: true
+flag:
+  logo: "&1⚑"
+  premium: true
+quarter-note:
+  logo: "&0♩"
+  premium: true
+eighth-note:
+  logo: "&0♪"
+  premium: true
+beamed-eighth-note:
+  logo: "&0♫"
+  premium: true
+beamed-sixteenth-note:
+  logo: "&0♬"
+  premium: true
+music-sharp:
+  logo: "&0♯"
+  premium: true
+music-flat:
+  logo: "&0♭"
+  premium: true
+music-natural:
+  logo: "&0♮"
+  premium: true
+crossbones:
+  logo: "&8☠"
+  premium: true
+cadeceus:
+  logo: "&b☤"
+  premium: true
+recycling:
+  logo: "&a♲"
+  premium: true
+alpha:
+  logo: "&6α"
+  premium: true
+beta:
+  logo: "&6β"
+  premium: true
+gamma:
+  logo: "&6γ"
+  premium: true
+delta:
+  logo: "&6δ"
+  premium: true
+epsilon:
+  logo: "&6ε"
+  premium: true
+zeta:
+  logo: "&6ζ"
+  premium: true
+eta:
+  logo: "&6η"
+  premium: true
+theta:
+  logo: "&6θ"
+  premium: true
+iota:
+  logo: "&6ι"
+  premium: true
+kappa:
+  logo: "&6κ"
+  premium: true
+lambda:
+  logo: "&6λ"
+  premium: true
+mu:
+  logo: "&6μ"
+  premium: true
+nu:
+  logo: "&6ν"
+  premium: true
+xi:
+  logo: "&6ξ"
+  premium: true
+omicron:
+  logo: "&6ο"
+  premium: true
+pi:
+  logo: "&6π"
+  premium: true
+rho:
+  logo: "&6ρ"
+  premium: true
+sigma:
+  logo: "&6ς"
+  premium: true
+tau:
+  logo: "&6τ"
+  premium: true
+upsilon:
+  logo: "&6υ"
+  premium: true
+phi:
+  logo: "&6φ"
+  premium: true
+chi:
+  logo: "&6χ"
+  premium: true
+psi:
+  logo: "&6ψ"
+  premium: true
+omega:
+  logo: "&6ω"
+  premium: true
+natural-numbers:
+  logo: "&fℕ"
+  premium: true
+integers:
+  logo: "&fℤ"
+  premium: true
+rational-numbers:
+  logo: "&fℚ"
+  premium: true
+real-numbers:
+  logo: "&fℝ"
+  premium: true
+complex-numbers:
+  logo: "&fℂ"
+  premium: true
+infinity:
+  logo: "&9∞"
+  premium: true
+hourglass:
+  logo: "&6⌛"
+  premium: true
+circled-star:
+  logo: "&e✪"
+  premium: true
+star:
+  logo: "&e⭑"
+  premium: true
+victory-hand:
+  logo: "&f✌"
+  premium: true
+heavy-heart:
+  logo: "&5❤"
+  premium: true
+latin-cross:
+  logo: "&0✝"
+  premium: true
+star-of-david:
+  logo: "&6✡"
+  premium: true
+star-and-crescent:
+  logo: "&2☪"
+  premium: true
+farsi:
+  logo: "&0☫"
+  premium: true
+adi-shakti:
+  logo: "&1☬"
+  premium: true
+hammer-and-sickle:
+  logo: "&e☭"
+  premium: true
+hammer-and-pick:
+  logo: "&0⚒"
+  premium: true
+shamrock:
+  logo: "&2☘"
+  premium: true
+fleur-de-lis:
+  logo: "&9⚜"
+  premium: true
+anchor:
+  logo: "&9⚓"
+  premium: true
+manji:
+  logo: "&0卍"
+  premium: true
+svatika:
+  logo: "&c卐"
+  premium: true
+atom:
+  logo: "&9⚛"
+  premium: true
+voltage:
+  logo: "&e⚡"
+  premium: true
+scales:
+  logo: "&0⚖"
+  premium: true
